@@ -36,7 +36,7 @@ export default class Sidebar extends Component {
                                     <h3 className="level-title">Python &amp; Django<span className="level-label" data-toggle="tooltip" data-placement="left"
                                         data-animation="true" title="You can use the tooltip to add more info...">Expert</span></h3>
                                     <div className="level-bar">
-                                        <div className="level-bar-inner" data-level="96%">
+                                        <div className="level-bar-inner" data-level="40%">
                                         </div>
                                     </div>
 
@@ -46,7 +46,7 @@ export default class Sidebar extends Component {
                                 <div className="item">
                                     <h3 className="level-title">Javascript &amp; jQuery<span className="level-label">Expert</span></h3>
                                     <div className="level-bar">
-                                        <div className="level-bar-inner" data-level="96%">
+                                        <div className="level-bar-inner" data-level="40%">
                                         </div>
                                     </div>
 
@@ -66,7 +66,7 @@ export default class Sidebar extends Component {
                                 <div className="item">
                                     <h3 className="level-title">Ruby on Rails<span className="level-label">Pro</span></h3>
                                     <div className="level-bar">
-                                        <div className="level-bar-inner" data-level="85%">
+                                        <div className="level-bar-inner" data-level="40%">
                                         </div>
                                     </div>
 

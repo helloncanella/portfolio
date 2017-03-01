@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import './header.scss'
 
 export default class Header extends Component {
 
@@ -7,7 +8,7 @@ export default class Header extends Component {
         return (
             <header className="header">
                 <div className="container">
-                    <img className="profile-image img-responsive pull-left" src="assets/images/profile.png" alt="James Lee" />
+                    <img className="profile-image img-responsive pull-left" src="http://i.imgur.com/08w2BKG.jpg" alt="Hellon Canella" />
                     <div className="profile-content pull-left">
                         <h1 className="name">Hellon Canella</h1>
                         <h2 className="desc">Web App Developer</h2>

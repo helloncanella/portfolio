@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import './assets/css/styles.scss';
 import './assets/js/main.js'
 import './assets/plugins/jquery-rss/dist/jquery.rss.min.js'
+
+
 // import './assets/plugins/github-activity/src/github-activity.js'
 // import './assets/plugins/github-calendar/dist/github-calendar.min.js'
 
