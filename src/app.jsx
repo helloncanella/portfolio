@@ -1,5 +1,12 @@
 import React from 'react';
-import '../styles/index.scss';
+import './assets/css/styles.scss';
+// import './assets/plugins/github-activity/src/github-activity.js'
+// import './assets/plugins/github-calendar/dist/github-calendar.min.js'
+import './assets/js/main.js'
+import './assets/plugins/jquery-rss/dist/jquery.rss.min.js'
+
+
+
 
 export default class App extends React.Component {
   render() {
