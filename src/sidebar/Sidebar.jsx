@@ -19,7 +19,7 @@ export default class Sidebar extends Component {
 
                     </div>
 
-                </aside>
+                </aside> 
 
 
                 <aside className="skills aside section">
